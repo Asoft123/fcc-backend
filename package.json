@@ -1,0 +1,29 @@
+{
+  "name": "fcc-backend",
+  "version": "1.0.0",
+  "description": "Backend for Faithword christian Center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asoft123/fcc-backend.git"
+  },
+  "author": "Festus Alabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asoft123/fcc-backend/issues"
+  },
+  "homepage": "https://github.com/Asoft123/fcc-backend#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mysql2": "^2.1.0"
+  }
+}
